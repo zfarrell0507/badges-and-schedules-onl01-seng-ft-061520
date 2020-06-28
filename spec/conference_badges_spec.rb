@@ -51,7 +51,7 @@ Hello, Matz! You'll be assigned to room 7!
 TEXT
 }
 
- 
+ end
 
   describe '#batch_badge_creator' do
 
